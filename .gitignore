@@ -1,0 +1,6 @@
+# Ignores
+
+__pycache__/
+venv/
+build/
+*.tar.gz
